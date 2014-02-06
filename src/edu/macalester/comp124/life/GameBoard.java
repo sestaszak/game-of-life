@@ -11,6 +11,14 @@ import java.io.*;
  * implements a standard non-wrapping Life board, with the edges of the board
  * bordered by dead cells.
  */
+
+/*
+In this .java class would I be able to change the size of the cells?
+What if I also wanted to program some preset patterns of active cells to start?
+Basically clicking on those tiny cells is hard.
+-Sara
+2/6/14
+ */
 public class GameBoard {
     
     /**
